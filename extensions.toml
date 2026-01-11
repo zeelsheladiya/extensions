@@ -2080,6 +2080,10 @@ version = "0.1.8"
 submodule = "extensions/modus-themes"
 version = "0.1.2"
 
+[mojo]
+submodule = "extensions/mojo"
+version = "0.0.2"
+
 [molten-theme]
 submodule = "extensions/molten-theme"
 version = "1.0.0"
